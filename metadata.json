@@ -1,0 +1,6 @@
+{
+  "name": "The Silent House",
+  "description": "A stealth horror survival puzzle game with local offline multiplayer, first-person exploration, and original enemy AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
